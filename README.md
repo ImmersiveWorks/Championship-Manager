@@ -1,5 +1,6 @@
 ## Supported Games
 * RFactor 2
+* <i>Want more?</i> Submit a Feature Request with an example file from your game of choice containing session data.
 
 ## Contributing to Championship Manager
 We welcome contributions to the Championship Manager project to facilitate additional games being supported by our software.
