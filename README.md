@@ -1,3 +1,6 @@
+## Supported Games
+* RFactor 2
+
 ## Contributing to Championship Manager
 Immersive Works welcomes contributions to the Championship Manager project to facilitate additional games being supported by our software.
 
