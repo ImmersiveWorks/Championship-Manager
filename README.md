@@ -8,7 +8,7 @@ We welcome contributions to the Championship Manager project to facilitate addit
 Feel free to submit issues and feature requests. If you want a game adding to the supported list, please raise a request with an example file from your game of choice to allow the team, or separate contributors, to work on implementing support.
 
 ### Contributing
-You can find guidance in our Wiki for writing custom game support.
+You can find guidance in our Wiki for writing custom game support.  
 Please follow the "fork-and-pull" Git workflow for contributing to this project.
 1. <b>Fork</b> the repository on GitHub.
 2. <b>Clone</b> the project to your own machine.
